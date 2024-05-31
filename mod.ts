@@ -21,6 +21,7 @@
  * console.log(randomFileName(15, 'tmp_')) 
  * ```
  * @module
+ * [MIT License](./LICENSE.md)
  */
 
 /**
